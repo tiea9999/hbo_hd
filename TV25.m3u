@@ -248,7 +248,7 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0165/DASH/V0165.mpd
 https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8|Referer=https://freetvdd.com/
 
 #EXTINF:-1 tvg-id="TrueFilmHD2.th" tvg-name="TrueFilmHD2" tvg-logo="https://i.imgur.com/QaVqmK1.png" group-title="หนัง/ภาพยนตร์",True Film 2
-http://playtv.my.id/play/truefilm2.m3u8
+https://www.dropbox.com/scl/fi/2n6vwc1bxccg0kzdz01ux/film2.m3u8?rlkey=ew1o4vk53gjypsb43yilgbsrh&dl=1
 
 
 #EXTINF:-0 tvg-id="TrueMovieHits.th" tvg-name="True Movie Hits" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/45345d10-e599-11ed-86b8-bb40638e3c49_webp_original.png" group-title="หนัง/ภาพยนตร์",TrueMovieHits
